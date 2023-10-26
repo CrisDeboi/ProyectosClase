@@ -22,5 +22,5 @@ and then, the gallery of products that I offer in my web
 
   - **My beloved friends who helped me with this**
   - **My teacher Tiburcio Cruz Ravelo**
-  -https://www.w3schools.com/css/css_rwd_mediaqueries.asp
-  -https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  - https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
