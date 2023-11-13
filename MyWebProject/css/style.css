@@ -155,7 +155,24 @@
   margin-right: 1rem;
 }
 
-.placeholder {
+.order-list{
+  margin-top: 3em;
+}
+
+#seed-error{
+  color: red;
+  visibility: hidden;
+}
+#quantity-error{
+  color: red;
+  visibility: hidden;
+}
+#rehydrated-error{
+  color: red;
+  visibility: hidden;
+}
+
+.blank {
   margin-top: 25px;
   margin-bottom: 25px;
   width: 100%;
